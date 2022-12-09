@@ -8,9 +8,9 @@ Michael T. Wolfinger<sup>1,2</sup>, Adriano de Bernardi Schneider<sup>3</sup>, J
 
 This repository contains a [nextstrain](https://nextstrain.org) community build of Venezuelan equine encephalitis virus (VEEV) that is accessible [here](https://nextstrain.org/groups/ViennaRNA/VEEVnext). Alternatively, you can drag & drop the [VEEV.json](auspice/veev.json) file directly at [auspice.us](https://auspice.us).
 
-Data in this community build rely on publicly available CHIKV genomes from NCBI Genbank. New releases are published on an irregular basis when a reasonable amount of novel sequences are available.
+Data in this community build rely on publicly available VEEV genomes from NCBI Genbank. New releases are published on an irregular basis when a reasonable amount of novel sequences are available.
 
-Automated lineage designations was performed by using [AUTOLIN](https://jmcbroome-automated-lineage-json-streamlit-app-3adskh.streamlit.app/) under default settings. 
+Automated lineage designations were performed by using [AUTOLIN](https://jmcbroome-automated-lineage-json-streamlit-app-3adskh.streamlit.app/) under default settings. 
 
 ## Citation
 If you use data provided in this repository in your own work please link back to this site - Thank you!
