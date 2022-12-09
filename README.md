@@ -10,7 +10,7 @@ This repository contains a [nextstrain](https://nextstrain.org) community build 
 
 Data in this community build rely on publicly available CHIKV genomes from NCBI Genbank. New releases are published on an irregular basis when a reasonable amount of novel sequences are available.
 
-Automated lineage designations was performed by using [AUTOLIN] (https://jmcbroome-automated-lineage-json-streamlit-app-3adskh.streamlit.app/) under default settings. 
+Automated lineage designations was performed by using [AUTOLIN](https://jmcbroome-automated-lineage-json-streamlit-app-3adskh.streamlit.app/) under default settings. 
 
 ## Citation
 If you use data provided in this repository in your own work please link back to this site - Thank you!
