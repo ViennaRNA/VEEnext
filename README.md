@@ -1,9 +1,10 @@
 # VEEVnext: Molecular epidemiology of Venezuelan equine encephalitis virus
 
-Michael T. Wolfinger<sup>1,2</sup>
+Michael T. Wolfinger<sup>1,2</sup>, Adriano de Bernardi Schneider<sup>3</sup>, Jakob McBroome<sup>3</sup>
 
 <sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub><br/>
 <sub><sup>2</sup>Research Group Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria</sub><br/>
+<sup><sup>3</sup>Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, United States</sub><br/>
 
 This repository contains a [nextstrain](https://nextstrain.org) community build of Venezuelan equine encephalitis virus (VEEV) that is accessible [here](https://nextstrain.org/community/ViennaRNA/VEEV). Alternatively, you can drag & drop the [VEEV.json](auspice/veev.json) file directly at [auspice.us](https://auspice.us).
 
