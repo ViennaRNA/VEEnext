@@ -1,6 +1,6 @@
 # VEEnext: Molecular epidemiology of Venezuelan equine encephalitis (VEE) complex viruses
 
-Michael T. Wolfinger<sup>1,2</sup>, Adriano de Bernardi Schneider<sup>3</sup>, Jakob McBroome<sup>3</sup>
+Michael T. Wolfinger<sup>1,2</sup>, Adriano de Bernardi Schneider<sup>3</sup></sup>
 
 <sub><sup>1</sup>Department of Theoretical Chemistry, University of Vienna, Vienna, Austria</sub><br/>
 <sub><sup>2</sup>Research Group Bioinformatics and Computational Biology, Faculty of Computer Science, University of Vienna, Vienna, Austria</sub><br/>
